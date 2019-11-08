@@ -1,0 +1,8 @@
+2019-10-22 22:22:40: -- Analysis Started by On File Change, After Delay
+2019-10-22 22:22:41: Changes: 2, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 102
+2019-10-22 22:22:41: Left to Right: Copy File: 2 
+2019-10-22 22:22:41: == Sync Started by On File Change, After Delay
+2019-10-22 22:22:43: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Lander/css/style.css' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/css/style.css' (19,778)
+2019-10-22 22:22:44: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Lander/index.html' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/index.html' (9,298)
+2019-10-22 22:22:46: == Sync Complete. Time: 00:00:05, Speed: 9.46 KB/s, OK: 2, Errors: 0
+2019-10-22 22:22:46: 

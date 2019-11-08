@@ -1,0 +1,16 @@
+2019-10-10 20:01:46: On File Change Monitoring started on file:///~Adrian/Desktop/HTML + CSS/Lander
+2019-10-10 20:01:49: File Monitoring not available on: ftp://ftp.cluster021.hosting.ovh.net:21/www
+2019-10-10 20:01:49: Remote File System with No monitoring, disconnect
+2019-10-10 20:01:50: -- Analysis Started by On File Change First Full Analyze Upon File Monitoring Start
+2019-10-10 20:01:57: Changes: 7, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 93
+2019-10-10 20:01:57: Left to Right: Copy File: 7 
+2019-10-10 20:01:57: == Sync Started by On File Change First Full Analyze Upon File Monitoring Start
+2019-10-10 20:01:59: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Lander/css/style.css' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/css/style.css' (6,965)
+2019-10-10 20:02:01: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Lander/img/head1.jpg.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/head1.jpg.png' (171,054)
+2019-10-10 20:02:01: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Lander/img/item1.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/item1.jpg' (11,488)
+2019-10-10 20:02:02: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Lander/img/item2.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/item2.jpg' (16,666)
+2019-10-10 20:02:03: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Lander/img/item3.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/item3.jpg' (15,157)
+2019-10-10 20:02:04: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Lander/img/item4.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/item4.jpg' (15,573)
+2019-10-10 20:02:05: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Lander/index.html' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/index.html' (3,912)
+2019-10-10 20:02:08: == Sync Complete. Time: 00:00:11, Speed: 29.5 KB/s, OK: 7, Errors: 0
+2019-10-10 20:02:08: 

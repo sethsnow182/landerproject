@@ -1,0 +1,10 @@
+2019-10-10 14:21:18: -- Analysis Started by On File Change, After Delay
+2019-10-10 14:21:18: Changes: 4, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 88
+2019-10-10 14:21:18: Left to Right: Copy File: 4 
+2019-10-10 14:21:19: == Sync Started by On File Change, After Delay
+2019-10-10 14:21:20: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Lander/img/headphones.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/headphones.png' (59,504)
+2019-10-10 14:21:21: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Lander/img/Logo.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Logo.png' (436)
+2019-10-10 14:21:22: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Lander/img/ScrollDown.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/ScrollDown.png' (360)
+2019-10-10 14:21:23: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Lander/img/whiteStrap.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/whiteStrap.png' (103)
+2019-10-10 14:21:25: == Sync Complete. Time: 00:00:06, Speed: 18.5 KB/s, OK: 4, Errors: 0
+2019-10-10 14:21:26: 

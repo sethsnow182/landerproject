@@ -1,0 +1,7 @@
+2019-10-21 17:53:19: -- Analysis Started by On File Change, After Delay
+2019-10-21 17:53:20: Changes: 1, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 102
+2019-10-21 17:53:20: Left to Right: Copy File: 1 
+2019-10-21 17:53:20: == Sync Started by On File Change, After Delay
+2019-10-21 17:53:21: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Lander/css/style.css' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/css/style.css' (18,365)
+2019-10-21 17:53:23: == Sync Complete. Time: 00:00:03, Speed: 17.9 KB/s, OK: 1, Errors: 0
+2019-10-21 17:53:24: 

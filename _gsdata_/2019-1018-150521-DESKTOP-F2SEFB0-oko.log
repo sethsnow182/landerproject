@@ -1,0 +1,14 @@
+2019-10-18 15:05:21: On File Change Monitoring started on file:///~Adrian/Desktop/HTML + CSS/Lander
+2019-10-18 15:05:24: Cannot Browse while job is running, waiting to run, or in Unattanded mode
+2019-10-18 15:05:25: File Monitoring not available on: ftp://ftp.cluster021.hosting.ovh.net:21/www
+2019-10-18 15:05:25: Remote File System with No monitoring, disconnect
+2019-10-18 15:05:26: -- Analysis Started by On File Change First Full Analyze Upon File Monitoring Start
+2019-10-18 15:05:32: Changes: 4, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 101
+2019-10-18 15:05:32: Left to Right: Copy File: 4 
+2019-10-18 15:05:32: == Sync Started by On File Change First Full Analyze Upon File Monitoring Start
+2019-10-18 15:05:32: Create Folder 'ftp://ftp.cluster021.hosting.ovh.net:21/www/.vscode'
+2019-10-18 15:05:33: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Lander/.vscode/settings.json' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/.vscode/settings.json' (42)
+2019-10-18 15:05:34: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Lander/css/style.css' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/css/style.css' (13,994)
+2019-10-18 15:05:37: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Lander/index.html' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/index.html' (6,139)
+2019-10-18 15:05:39: == Sync Complete. Time: 00:00:07, Speed: 8.73 KB/s, OK: 4, Errors: 0
+2019-10-18 15:05:40: 

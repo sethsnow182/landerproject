@@ -1,0 +1,13 @@
+2019-10-10 14:20:36: -- Analysis Started by On File Change, After Delay
+2019-10-10 14:20:37: Changes: 6, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 88
+2019-10-10 14:20:37: Left to Right: Copy File: 6 
+2019-10-10 14:20:37: == Sync Started by On File Change, After Delay
+2019-10-10 14:20:37: Create Folder 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/tinified'
+2019-10-10 14:20:38: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Lander/img/tinified/headphones.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/tinified/headphones.png' (59,504)
+2019-10-10 14:20:39: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Lander/img/tinified/Logo.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/tinified/Logo.png' (436)
+2019-10-10 14:20:39: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Lander/img/tinified/ScrollDown.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/tinified/ScrollDown.png' (360)
+2019-10-10 14:20:40: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Lander/img/tinified/whiteStrap.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/tinified/whiteStrap.png' (103)
+2019-10-10 14:20:40: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Lander/img/tinified.zip' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/tinified.zip' (60,893)
+- ERROR: Error copying file: Cannot open local file 'C:/Users/Adrian/Desktop/HTML + CSS/Lander/img/tinified.zip' for read: The system cannot find the file specified.  (error 2)
+2019-10-10 14:20:43: == Sync Complete. Time: 00:00:06, Speed: 32.7 KB/s, OK: 5, Errors: 1
+2019-10-10 14:20:44: 
